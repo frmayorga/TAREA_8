@@ -1,8 +1,5 @@
 # TAREA_8
 
-
-# TAREA_7
-
 # INTEGRANTES
 
 Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos

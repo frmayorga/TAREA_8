@@ -15,8 +15,10 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_8/blob/main/deber%208.jpg)
 
+![Cap15-2](https://user-images.githubusercontent.com/93361435/153927928-b803db7b-5b31-4266-b407-32d6662199eb.jpg)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 
 # CAP 14 
 

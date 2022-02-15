@@ -98,9 +98,9 @@ Calculamos la reactancia capacitiva, despues utilizando la formula de impedancia
 
 
 #### 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
-![image](https://user-images.githubusercontent.com/93398718/153984080-6b761692-859a-41b1-8f2c-7dd8947340b9.png)  
-- desarrollo:  
-![image](https://user-images.githubusercontent.com/93398718/154085170-448cf45c-fa73-491a-8a63-829b0feb4c67.png)    
+![image](https://user-images.githubusercontent.com/93398718/153984080-6b761692-859a-41b1-8f2c-7dd8947340b9.png)
+
+
 
 
 **29. Repita el problema 28(Determine el ángulo de fase entre el voltaje aplicado y la corriente) para el circuito de la figura 15-86, con f = 5 kHz.**
@@ -174,8 +174,35 @@ En donde obtenemos que la resistencia equivalente en serie es 18.4 kilo-ohmios y
 
 
 
+**53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.**
+
+![image](https://user-images.githubusercontent.com/93361435/154082497-e2158525-fb16-443e-838a-95a0f15290a2.png)
+
+
+Utilizando la relacion de puente equilibrado de Wheatstone utilizamos las reactancias capacitivas como resistencias, despejando la reactancia capacitiva del segundo capacitor tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/154082229-a590064b-dd0b-48e5-8d14-88b0db247db6.png)
+
+Obtenido este resultado usando la formula de reactancia capacitiva despejamos el valor de capacitor y obtenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/154084816-053a51cd-8687-4e0d-a203-f208266cc044.png)
+
+
+
+
 #### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
 
+
+
+**59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?**
+
+![image](https://user-images.githubusercontent.com/93361435/154084959-c66aaa47-407f-4d7e-b7aa-1d6d8c008aa3.png)
+
+Obteniendo los valores antes obtenidos utilizamos el angulo de la impedancia obteniendo asi: 
+
+![image](https://user-images.githubusercontent.com/93361435/154085606-126f0b1f-8d19-4a35-9478-06c5f80e7797.png)
+
+Siendo el factor de potencia de 0.9146.
 
 
 #### 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?

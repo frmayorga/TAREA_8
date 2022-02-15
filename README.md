@@ -98,9 +98,9 @@ Calculamos la reactancia capacitiva, despues utilizando la formula de impedancia
 
 
 #### 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
-![image](https://user-images.githubusercontent.com/93398718/153984080-6b761692-859a-41b1-8f2c-7dd8947340b9.png)
-- desarrollo:
-![image](https://user-images.githubusercontent.com/93398718/154085170-448cf45c-fa73-491a-8a63-829b0feb4c67.png)  
+![image](https://user-images.githubusercontent.com/93398718/153984080-6b761692-859a-41b1-8f2c-7dd8947340b9.png)  
+- desarrollo:  
+![image](https://user-images.githubusercontent.com/93398718/154085170-448cf45c-fa73-491a-8a63-829b0feb4c67.png)    
 
 
 **29. Repita el problema 28(Determine el ángulo de fase entre el voltaje aplicado y la corriente) para el circuito de la figura 15-86, con f = 5 kHz.**

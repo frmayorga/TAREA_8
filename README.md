@@ -22,6 +22,9 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 # CAP 15
 
+#### 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+
+
 **3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:**
 
 (a) 3, j5 (b) -7, j1 (c) -10, -j10
@@ -29,6 +32,10 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 Ubicamos los ejes positivos real e imaginario: 
 
 ![image](https://user-images.githubusercontent.com/93361435/153790261-6e970d7e-911b-4f48-9fab-0e3f44b06e0b.png)
+
+
+#### 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
 
 
 
@@ -39,6 +46,16 @@ Utilizamos las identidades de coseno y seno para obtener los valores de los valo
 ![image](https://user-images.githubusercontent.com/93361435/153792110-8301dfc5-cde8-49ba-80f7-6161975267e4.png)
 
 ![image](https://user-images.githubusercontent.com/93361435/153792140-abfa1261-acf8-4c77-ad36-1e3bc1489863.png)
+
+
+#### 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+![image](https://user-images.githubusercontent.com/93398718/153983298-73988386-d575-4864-a39b-17ac55bdd0ce.png)  
+
+
+
+#### 15. Realice las siguientes sustracciones:
+![image](https://user-images.githubusercontent.com/93398718/153983424-5883199d-eaf0-4b33-8fd7-9cd6a79cefd3.png)
+
 
 
 
@@ -55,6 +72,11 @@ Para los ejercicios c y d debemos convertir los numeros a forma polar:
 ![image](https://user-images.githubusercontent.com/93361435/153794225-0821e56b-7ed4-43b0-acd4-523e79af7169.png)
 
 
+#### 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+![image](https://user-images.githubusercontent.com/93398718/153983928-93e28a06-a34c-4a87-bc3a-db050c3f9a27.png)
+
+
+
 
 **23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:**
 
@@ -67,6 +89,13 @@ Calculamos la reactancia capacitiva, despues utilizando la formula de impedancia
 ![image](https://user-images.githubusercontent.com/93361435/153794677-f32bc498-fe69-47df-b0e6-d186e038f3f0.png)
 
 
+
+#### 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+![image](https://user-images.githubusercontent.com/93398718/153984080-6b761692-859a-41b1-8f2c-7dd8947340b9.png)
+
+
+
+
 **29. Repita el problema 28(Determine el ángulo de fase entre el voltaje aplicado y la corriente) para el circuito de la figura 15-86, con f = 5 kHz.**
 
 En primer lugar calculamos la reactancia capacitiva, luego con la ley de Ohm encontramos el valor de la corriente.
@@ -74,6 +103,12 @@ En primer lugar calculamos la reactancia capacitiva, luego con la ley de Ohm enc
 ![image](https://user-images.githubusercontent.com/93361435/153795760-a386c11e-b072-4297-aab9-cbd77f67defc.png)
 
 Como vemos la corriente esta retrasada con 14.47 Grados
+
+
+#### 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
+![image](https://user-images.githubusercontent.com/93398718/153984395-58ccf558-c8d7-41cc-a9e4-6f64547fff6b.png)
+
+
 
 
 
@@ -93,6 +128,29 @@ Tenemos que la grafica Vsal-Frecuencia es igual a:
 
 ![image](https://user-images.githubusercontent.com/93361435/153981540-15cecc94-8bc5-4458-ab14-887bebf0c047.png)
 
+
+#### 39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
+![image](https://user-images.githubusercontent.com/93398718/153984565-3e96d665-460c-4b80-8425-33377da15554.png)
+
+
+
+
+#### 45. Para el circuito de la figura 15-97, determine lo siguiente:
+![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
+
+
+
+#### 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
+![image](https://user-images.githubusercontent.com/93398718/153984837-abe7537b-1b33-4e92-b20c-9f410c7c8625.png)
+
+
+
+#### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
+
+
+
+#### 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+![image](https://user-images.githubusercontent.com/93398718/153985018-2f233c16-3c1a-4bf3-b454-77ce7aa09e0c.png)
 
 
 

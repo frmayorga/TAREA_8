@@ -142,9 +142,31 @@ Tenemos que la grafica Vsal-Frecuencia es igual a:
 
 
 
+**41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.**
+
+![image](https://user-images.githubusercontent.com/93361435/154078062-96432a99-fdb6-4071-aa40-f49c35e52ad4.png)
+
+Primero debemos calcular la reactancia capacitiva y para ello necesitamos la capacitancia total, en este caso solo sumamos las dos capacitancias en paralelo, para la resistencia total sumamos las tres resistencias, obtenidos estos datos con la formula de impedancia en un circuito RC en paralelo obtenemos los siguientes datos:
+
+![image](https://user-images.githubusercontent.com/93361435/154077978-6c20745a-2bdf-4b23-9e13-e0052f4422c6.png)
+
+
+
 #### 45. Para el circuito de la figura 15-97, determine lo siguiente:
 ![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
 
+
+
+
+**47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.**
+
+![image](https://user-images.githubusercontent.com/93361435/154078446-dddff5a7-667f-46be-aa50-1d0ba587acd1.png)
+
+Con los datos del ejercicio calculamos la capacitancia total y la resistencia total, para asi tener un circuito RC en paralelo y empezar a calcular la impedancia del circuito:
+
+![image](https://user-images.githubusercontent.com/93361435/154079509-4b4ddc76-403d-40ed-89a0-d0f775660b10.png)
+
+En donde obtenemos que la resistencia equivalente en serie es 18.4 kilo-ohmios y la capacitancia equivalente es de 195.7 pico faradios
 
 
 #### 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.

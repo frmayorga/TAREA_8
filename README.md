@@ -75,6 +75,28 @@ En primer lugar calculamos la reactancia capacitiva, luego con la ley de Ohm enc
 
 Como vemos la corriente esta retrasada con 14.47 Grados
 
+
+
+**35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz**
+
+![image](https://user-images.githubusercontent.com/93361435/153980640-8e616676-c034-4d3f-956e-32e9c057302a.png)
+
+Utilizando las formulas de reactancia capacitiva y voltaje de salida en un circuito RC de retraso tenemos los siguientes valores: 
+
+![image](https://user-images.githubusercontent.com/93361435/153981343-051dc559-6854-444c-b481-177ce5fd4ff0.png)
+
+![image](https://user-images.githubusercontent.com/93361435/153981357-96fc1702-60da-4b4c-a353-52909b471ea9.png)
+
+![image](https://user-images.githubusercontent.com/93361435/153981374-314f976a-de96-497b-b2d9-8647814dfcc5.png)
+
+Tenemos que la grafica Vsal-Frecuencia es igual a: 
+
+![image](https://user-images.githubusercontent.com/93361435/153981540-15cecc94-8bc5-4458-ab14-887bebf0c047.png)
+
+
+
+
+
 # VIDEO
 
 

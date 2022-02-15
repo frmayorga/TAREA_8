@@ -139,8 +139,8 @@ Tenemos que la grafica Vsal-Frecuencia es igual a:
 
 #### 39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
 ![image](https://user-images.githubusercontent.com/93398718/153984565-3e96d665-460c-4b80-8425-33377da15554.png)
-
-
+- la grafica es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/154107143-855f026d-1b7b-4992-875e-7c1bc3a71d6e.png)
 
 
 **41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.**

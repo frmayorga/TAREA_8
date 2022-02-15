@@ -113,10 +113,9 @@ Como vemos la corriente esta retrasada con 14.47 Grados
 
 
 #### 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
-![image](https://user-images.githubusercontent.com/93398718/153984395-58ccf558-c8d7-41cc-a9e4-6f64547fff6b.png)
-
-
-
+![image](https://user-images.githubusercontent.com/93398718/153984395-58ccf558-c8d7-41cc-a9e4-6f64547fff6b.png)  
+- desarrollo:    
+![image](https://user-images.githubusercontent.com/93398718/154099773-918fa687-0bea-4e40-a118-bdc67e5820ec.png)  
 
 
 **35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz**

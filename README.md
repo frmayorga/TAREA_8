@@ -24,6 +24,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 #### 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
 
+- pueden ser representados como puntos en el plano complejo o tambien los podemos representar como una posicion angular en el plano complejo.
 
 **3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:**
 
@@ -36,8 +37,7 @@ Ubicamos los ejes positivos real e imaginario:
 
 #### 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
-
-
+- h = (100+225)^(1/2) ---> h = 18.03 u
 
 **9. Convierta cada uno de los siguientes números polares a forma rectangular:**
 
@@ -49,14 +49,21 @@ Utilizamos las identidades de coseno y seno para obtener los valores de los valo
 
 
 #### 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
-![image](https://user-images.githubusercontent.com/93398718/153983298-73988386-d575-4864-a39b-17ac55bdd0ce.png)  
+![image](https://user-images.githubusercontent.com/93398718/153983298-73988386-d575-4864-a39b-17ac55bdd0ce.png)    
+como en el plano complejo existen 360° entre todos sus ejes solo debemos restar a 360 el angulo negativo:
 
-
+- a) 12 ∠115° 
+- b) 20 ∠230°
+- c) 100 ∠190°
+- d) 50 ∠160°
 
 #### 15. Realice las siguientes sustracciones:
 ![image](https://user-images.githubusercontent.com/93398718/153983424-5883199d-eaf0-4b33-8fd7-9cd6a79cefd3.png)
 
-
+- a) (2.5 + j1.2) - (1.4 + j0.5) = (2.5-1.4) + j(1.2-0.5) = 1.1 + j0.7 
+- b) (-45 - j23) - (36 + j12) = (-45-36) + j(-23-12) = -81 - j35 
+- c) (8 - j4) - 3∠25° = (8 - j4) - (3 - j0.4) = (8 - 3) + j(-4 + 0.4) = 5 - j3.6
+- d) 48∠135° - 33∠ -60° = (-48 + j4.24) - (-31.5 - j10.06) = (-48 + 31.5) + j(4.24 + 10.06) = -16.5 + j14.30
 
 
 **17. Realice las siguientes divisiones:**
@@ -73,9 +80,9 @@ Para los ejercicios c y d debemos convertir los numeros a forma polar:
 
 
 #### 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
-![image](https://user-images.githubusercontent.com/93398718/153983928-93e28a06-a34c-4a87-bc3a-db050c3f9a27.png)
-
-
+![image](https://user-images.githubusercontent.com/93398718/153983928-93e28a06-a34c-4a87-bc3a-db050c3f9a27.png)  
+- desarrollo:  
+![image](https://user-images.githubusercontent.com/93398718/153996346-5d666a11-b353-4d12-9fb0-989b75f07ad0.png)  
 
 
 **23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:**

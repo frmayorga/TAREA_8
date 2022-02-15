@@ -20,7 +20,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
-# CAP 14 
+# CAP 15
 
 **3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:**
 

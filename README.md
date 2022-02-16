@@ -212,6 +212,43 @@ Siendo el factor de potencia de 0.9146.
 
 
 
+
+# CAP 16
+
+
+
+**5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:**
+(a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
+
+![image](https://user-images.githubusercontent.com/93361435/154185810-83f8ff4e-d3c0-4268-842f-17ba7f314864.png)
+
+Utilizando las formulas de reactancia inductiva y de impedancia obtenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/154185953-7c62c2a8-a89a-487f-a572-7838ee305789.png)
+
+
+
+**11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.**
+
+![image](https://user-images.githubusercontent.com/93361435/154186017-0ddbc40f-ef0e-417b-8334-08da350c0161.png)
+
+Para el calculo de la corriente en primer lugar necesitamos calcular la reactancia inductiva y la resistencia total en los dos casos.  
+
+Para el circuito (a) tenemos el siguiente procedimiento: 
+
+Con el uso de las formulas antes vistas obtenemos los valores de reactancia inductiva y resistencia total, luego obtenemos la impedancia total, por ultimo utilizando la ley de Ohm encontramos el valor de la corriente:
+
+![image](https://user-images.githubusercontent.com/93361435/154187250-18e65c34-3886-4d74-8696-01c2041dcba7.png)
+
+Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
+
+![image](https://user-images.githubusercontent.com/93361435/154189516-6dbf426e-f66a-4993-9669-1a7c15563ecb.png)
+
+
+
+
+
+
 # VIDEO
 
 

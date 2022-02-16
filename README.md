@@ -246,6 +246,37 @@ Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
 
 
 
+**19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?**
+
+![image](https://user-images.githubusercontent.com/93361435/154261735-73b6920c-2009-4e3f-89f5-8370e46ae8d0.png)
+
+Utilizando la formula empleada para circuitos RL en paralelo tenemos:
+
+![image](https://user-images.githubusercontent.com/93361435/154261638-8ed220e8-e103-47b7-b400-c2a6894cfbf8.png)
+
+
+**25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.**
+
+![image](https://user-images.githubusercontent.com/93361435/154262062-fbd5b523-e991-432f-a1c1-6c3145a261c9.png)
+
+Obteniendo la resistencia total encontramos la impedancia del circuito, luego ponemos la impedancia en forma rectangular para poder encontrar los valores de resistencia y reactancia inductiva equivalente en serie. 
+
+![image](https://user-images.githubusercontent.com/93361435/154263170-47303580-de67-4b77-8af2-131e25429ec1.png)
+
+Su equivalente en serie es una resistencia de 1.83 kiloohmios y un inductor con un reactancia inductiva de 4.2 kiloohmios
+
+
+
+
+
+
+**37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58**
+
+Utilizando la formula de potencia real y potencia reactiva, observamos que necesitamos los valores de impedancia y corriente, por lo tanto: 
+
+![image](https://user-images.githubusercontent.com/93361435/154265810-833087b3-5ebf-44d1-ba80-4602f3e99f9d.png)
+
+Obtenemos los valores de potencia real de 1.29 vatios y de potencia reactiva 1.039 VAR
 
 
 

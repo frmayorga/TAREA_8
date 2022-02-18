@@ -153,22 +153,7 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 
 
 
-**43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
-de 8 kHz.**
 
-![image](https://user-images.githubusercontent.com/93361435/154603611-2742fa8f-3267-490f-9dbb-c7d520daeb62.png)
-
-Realizamos el calculo de la impedancia que va ser el mismo para los dos circuitos, luego con la ley de Ohm encontramos los valores de corriente para luego encontrar los valores de voltaje en el resistor e inductancia obteniendo los siguientes resultados:
-
-![image](https://user-images.githubusercontent.com/93361435/154603518-2a123bf7-e4e5-4981-b7a4-cf606444a0aa.png)
-
-Podemos ver el trazo de los fasores en la siguiente figura:
-
-![image](https://user-images.githubusercontent.com/93361435/154603553-84ba0699-385e-4edf-ab42-814732135f5e.png)
-
-
-#### 45. Para el circuito de la figura 15-97, determine lo siguiente:
-![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
 
 
 
@@ -291,6 +276,43 @@ Utilizando la formula de potencia real y potencia reactiva, observamos que neces
 ![image](https://user-images.githubusercontent.com/93361435/154265810-833087b3-5ebf-44d1-ba80-4602f3e99f9d.png)
 
 Obtenemos los valores de potencia real de 1.29 vatios y de potencia reactiva 1.039 VAR
+
+
+
+**43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
+de 8 kHz.**
+
+![image](https://user-images.githubusercontent.com/93361435/154603611-2742fa8f-3267-490f-9dbb-c7d520daeb62.png)
+
+Realizamos el calculo de la impedancia que va ser el mismo para los dos circuitos, luego con la ley de Ohm encontramos los valores de corriente para luego encontrar los valores de voltaje en el resistor e inductancia obteniendo los siguientes resultados:
+
+![image](https://user-images.githubusercontent.com/93361435/154603518-2a123bf7-e4e5-4981-b7a4-cf606444a0aa.png)
+
+Podemos ver el trazo de los fasores en la siguiente figura:
+
+![image](https://user-images.githubusercontent.com/93361435/154603553-84ba0699-385e-4edf-ab42-814732135f5e.png)
+
+
+#### 45. Para el circuito de la figura 15-97, determine lo siguiente:
+![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
+
+
+
+
+
+**45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:**
+
+(a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
+
+Cuando L1 o a su vez L2 esta abierto el voltaje total esta en los inductores por lo tanto el voltaje de salida en (a) y (b) = 0, para la opcion (c) tenemos el siguiente procedimiento: 
+
+Debido a que R1 esta ubicado en paralelo lo podemos quitar y el voltaje de salida va a ser distinto de 0, entonces calculamos con un circuito RL en serie.
+
+![image](https://user-images.githubusercontent.com/93361435/154604708-a67f6a40-16af-41bd-a381-492d9bc8001d.png)
+
+Para el literal (d) utilizamos el mismo procedimiento solo que al momento de multiplicar por RT utilizamos la resistencia equivalente en paralelo: 
+
+![image](https://user-images.githubusercontent.com/93361435/154605436-7c323e2b-ebb0-4d0c-b38d-9a5855e1f0ea.png)
 
 
 

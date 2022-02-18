@@ -213,6 +213,8 @@ Siendo el factor de potencia de 0.9146.
 
 
 # CAP 16
+#### 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+![image](https://user-images.githubusercontent.com/93398718/154606749-76262ca5-1efa-49be-8a3d-5cac48cbb2b1.png)
 
 
 
@@ -224,6 +226,10 @@ Siendo el factor de potencia de 0.9146.
 Utilizando las formulas de reactancia inductiva y de impedancia obtenemos: 
 
 ![image](https://user-images.githubusercontent.com/93361435/154185953-7c62c2a8-a89a-487f-a572-7838ee305789.png)
+
+
+#### 9.Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+![image](https://user-images.githubusercontent.com/93398718/154606844-74cae8fd-3d32-475a-8fb8-89dd940ca765.png)
 
 
 
@@ -244,6 +250,11 @@ Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
 ![image](https://user-images.githubusercontent.com/93361435/154189516-6dbf426e-f66a-4993-9669-1a7c15563ecb.png)
 
 
+#### 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+![image](https://user-images.githubusercontent.com/93398718/154606969-67ffd125-1f95-40fa-913d-ded4fea64328.png)  
+![image](https://user-images.githubusercontent.com/93398718/154607012-b8b74868-a963-4d7b-a6c3-ab8b81da0cdd.png)  
+
+
 
 **19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?**
 
@@ -252,6 +263,12 @@ Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
 Utilizando la formula empleada para circuitos RL en paralelo tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/154261638-8ed220e8-e103-47b7-b400-c2a6894cfbf8.png)
+
+
+#### 23. Determine las siguientes cantidades en la figura 16-65:
+![image](https://user-images.githubusercontent.com/93398718/154607113-279707e6-9ace-4406-8a94-39a5b4eb2f64.png)  
+
+
 
 
 **25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.**
@@ -265,7 +282,11 @@ Obteniendo la resistencia total encontramos la impedancia del circuito, luego po
 Su equivalente en serie es una resistencia de 1.83 kiloohmios y un inductor con un reactancia inductiva de 4.2 kiloohmios
 
 
+#### 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+![image](https://user-images.githubusercontent.com/93398718/154607297-45bf4d6b-c9d1-4acd-bd6d-312be53480e1.png)  
 
+
+#### v35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
 
 
 
@@ -276,6 +297,12 @@ Utilizando la formula de potencia real y potencia reactiva, observamos que neces
 ![image](https://user-images.githubusercontent.com/93361435/154265810-833087b3-5ebf-44d1-ba80-4602f3e99f9d.png)
 
 Obtenemos los valores de potencia real de 1.29 vatios y de potencia reactiva 1.039 VAR
+
+
+#### 41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+![image](https://user-images.githubusercontent.com/93398718/154607563-f74fa3e0-2821-4b5f-9b3e-32ffb1ebcb6c.png)  
+
+
 
 
 

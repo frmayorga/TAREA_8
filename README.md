@@ -153,6 +153,20 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 
 
 
+**43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
+de 8 kHz.**
+
+![image](https://user-images.githubusercontent.com/93361435/154603611-2742fa8f-3267-490f-9dbb-c7d520daeb62.png)
+
+Realizamos el calculo de la impedancia que va ser el mismo para los dos circuitos, luego con la ley de Ohm encontramos los valores de corriente para luego encontrar los valores de voltaje en el resistor e inductancia obteniendo los siguientes resultados:
+
+![image](https://user-images.githubusercontent.com/93361435/154603518-2a123bf7-e4e5-4981-b7a4-cf606444a0aa.png)
+
+Podemos ver el trazo de los fasores en la siguiente figura:
+
+![image](https://user-images.githubusercontent.com/93361435/154603553-84ba0699-385e-4edf-ab42-814732135f5e.png)
+
+
 #### 45. Para el circuito de la figura 15-97, determine lo siguiente:
 ![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
 

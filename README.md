@@ -191,7 +191,7 @@ Obtenido este resultado usando la formula de reactancia capacitiva despejamos el
 
 
 #### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
-
+![image](https://user-images.githubusercontent.com/93398718/155103394-65967ea0-9334-47cd-83a8-de29b5d43073.png)  
 
 
 **59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?**

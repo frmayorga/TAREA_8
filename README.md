@@ -274,6 +274,8 @@ Utilizando las formulas de reactancia inductiva y de impedancia obtenemos:
 
 ![image](https://user-images.githubusercontent.com/93561706/155219263-e6b53dd7-8016-494e-88e5-872a418e5fa2.png)
 
+![image](https://user-images.githubusercontent.com/93561706/155223322-16597362-4ed8-435d-a7f6-a1fc67e5282a.png)
+
 
 #### 9.Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
 ![image](https://user-images.githubusercontent.com/93398718/154606844-74cae8fd-3d32-475a-8fb8-89dd940ca765.png)  

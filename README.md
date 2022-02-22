@@ -90,6 +90,8 @@ Para los ejercicios c y d debemos convertir los numeros a forma polar:
 
 #### 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
 
+Van a ser las mismas ya que el voltaje a través de la resistencia y del capacitor deben ser iguales debido a que la aplicación de voltaje de entrada sinusoidal da como resultado una caída de voltaje y corriente.
+
 #### 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
 ![image](https://user-images.githubusercontent.com/93398718/153983928-93e28a06-a34c-4a87-bc3a-db050c3f9a27.png)  
 - desarrollo:  

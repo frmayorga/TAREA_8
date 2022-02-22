@@ -227,8 +227,8 @@ Utilizando las formulas de reactancia inductiva y de impedancia obtenemos:
 
 
 #### 9.Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
-![image](https://user-images.githubusercontent.com/93398718/154606844-74cae8fd-3d32-475a-8fb8-89dd940ca765.png)
-
+![image](https://user-images.githubusercontent.com/93398718/154606844-74cae8fd-3d32-475a-8fb8-89dd940ca765.png)  
+![image](https://user-images.githubusercontent.com/93398718/155139809-4c449c06-9fa6-40ae-9a34-5e5b6911fa11.png)  
 
 
 **11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.**

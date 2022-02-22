@@ -302,6 +302,10 @@ Obtenemos los valores de potencia real de 1.29 vatios y de potencia reactiva 1.0
 
 #### 41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
 ![image](https://user-images.githubusercontent.com/93398718/154607563-f74fa3e0-2821-4b5f-9b3e-32ffb1ebcb6c.png)  
+- gracias a los calculos realizados se obtubo la siguiente tabla:  
+![image](https://user-images.githubusercontent.com/93398718/155091678-115fe96b-bdd7-489a-9653-db001725296a.png)  
+- a traves de esta tabla podemos visualizar la curva de respuesta la cual es la siguiente:
+![image](https://user-images.githubusercontent.com/93398718/155092270-fa32c104-234c-4c66-92b9-22869939676b.png)
 
 
 

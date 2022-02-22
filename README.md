@@ -44,7 +44,41 @@ Ubicamos los ejes positivos real e imaginario:
 ![image](https://user-images.githubusercontent.com/93361435/153790261-6e970d7e-911b-4f48-9fab-0e3f44b06e0b.png)
 
 #### 5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los puntos del problema 3
+(a) 3, j5
 
+![image](https://user-images.githubusercontent.com/93561706/155224307-339e1db5-72ca-4a2c-9bef-e1bd07f1cf65.png)
+
+-Sumando 90 al ángulo y volviendo a rectangulares
+
+![image](https://user-images.githubusercontent.com/93561706/155224370-77c63ecc-8dea-42d3-893b-3ffe3dbe2d09.png) 
+
+-Restando 90 al ángulo y volviendo a rectangulares
+
+![image](https://user-images.githubusercontent.com/93561706/155224486-6cbf6ae5-9b35-4921-afb1-2adbd3915737.png)
+
+(b) -7, j1 
+
+![image](https://user-images.githubusercontent.com/93561706/155224598-a9d9d886-1d2c-49cd-bafb-edfddb5f392b.png)
+
+-Sumando 90 al ángulo y volviendo a rectangulares
+
+![image](https://user-images.githubusercontent.com/93561706/155224646-c19d99bf-6fe0-4f90-8fd1-2cf77e65e95c.png)
+
+-Restando 90 al ángulo y volviendo a rectangulares
+
+![image](https://user-images.githubusercontent.com/93561706/155224684-c3281fb9-e372-479c-9634-86542e384f0a.png)
+
+(c) -10, -j10
+
+![image](https://user-images.githubusercontent.com/93561706/155224705-a1483ed9-7725-42f9-af8e-32feb2699ae5.png)
+
+-Sumando 90 al ángulo y volviendo a rectangulares
+
+![image](https://user-images.githubusercontent.com/93561706/155224724-daf80928-2831-44ca-b8ee-7b2de273fc0c.png)
+
+-Restando 90 al ángulo y volviendo a rectangulares
+
+![image](https://user-images.githubusercontent.com/93561706/155224747-75f42b6e-3e5d-4bb4-a027-0271dc25558d.png)
 
 #### 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 

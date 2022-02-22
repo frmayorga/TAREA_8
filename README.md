@@ -8,9 +8,13 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
+- Comprender el funcionamiento de circuitos RC y RL en corriente alterna con el uso de fasores mediante la respectiva investigacion teorica del tema y la realizacion de los  ejercicios propuestos en el libro principio de circuitos electricos de Floyd
 
 ## OBJETIVOS ESPECIFICOS
 
+- Definir las caracteristicas de los circuitos RC y RL en corriente alterna
+- Definir como calcular la impedancia en circuitos RL y RC en corriente alterna
+- Definir los pasos a seguir para resolver circuitos RC y RL en corriente alterna
 
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_8/blob/main/deber%208.jpg)
@@ -89,8 +93,6 @@ Para los ejercicios c y d debemos convertir los numeros a forma polar:
 ![image](https://user-images.githubusercontent.com/93361435/153794225-0821e56b-7ed4-43b0-acd4-523e79af7169.png)
 
 #### 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
-
-Van a ser las mismas ya que el voltaje a través de la resistencia y del capacitor deben ser iguales debido a que la aplicación de voltaje de entrada sinusoidal da como resultado una caída de voltaje y corriente.
 
 #### 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
 ![image](https://user-images.githubusercontent.com/93398718/153983928-93e28a06-a34c-4a87-bc3a-db050c3f9a27.png)  
@@ -178,9 +180,6 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 
 ![image](https://user-images.githubusercontent.com/93561706/155219603-b08e3b13-c669-40b7-82ea-1d218b3a5e1d.png)
 
-![image](https://user-images.githubusercontent.com/93561706/155222345-3a210ac7-d05e-48d2-b03d-acc78917bf8d.png)
-
-
 #### 45. Para el circuito de la figura 15-97, determine lo siguiente:  
 ![image](https://user-images.githubusercontent.com/93398718/155093726-b6b0e4e2-8cce-4fae-b98d-5f118d1e4ffb.png)  
 ![image](https://user-images.githubusercontent.com/93398718/155097367-025dc3e5-dddd-4a8d-b57b-b99fd82ac1c1.png)  
@@ -222,10 +221,6 @@ Obtenido este resultado usando la formula de reactancia capacitiva despejamos el
 #### 55. Encuentre la corriente a través de cada componente en la figura 15-103	
 
 ![image](https://user-images.githubusercontent.com/93561706/155219675-0205393e-d3df-4888-bfc1-02541cbbe9d9.png)
-
-![image](https://user-images.githubusercontent.com/93561706/155222377-ac7dc7b4-d22f-41bc-8664-d26de092f8a1.png)
-
-![image](https://user-images.githubusercontent.com/93561706/155222392-6d1f8506-c11d-4dde-9cde-e968a7597b5a.png)
 
 
 #### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
@@ -274,8 +269,6 @@ Utilizando las formulas de reactancia inductiva y de impedancia obtenemos:
 
 ![image](https://user-images.githubusercontent.com/93561706/155219263-e6b53dd7-8016-494e-88e5-872a418e5fa2.png)
 
-![image](https://user-images.githubusercontent.com/93561706/155223322-16597362-4ed8-435d-a7f6-a1fc67e5282a.png)
-
 
 #### 9.Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
 ![image](https://user-images.githubusercontent.com/93398718/154606844-74cae8fd-3d32-475a-8fb8-89dd940ca765.png)  
@@ -306,17 +299,6 @@ Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
 
 ![image](https://user-images.githubusercontent.com/93561706/155219131-52ef7279-19f5-42ff-a335-9435fe3c1992.png)
 
-- a)
-![image](https://user-images.githubusercontent.com/93561706/155223185-107e7870-6b54-4a1f-a4f2-5f00a71244d6.png)
-
-- b)
-![image](https://user-images.githubusercontent.com/93561706/155223200-40c90fc5-a5f8-4aec-8c0f-ceeba68eac7e.png)
-
-- c)
-![image](https://user-images.githubusercontent.com/93561706/155223223-93f8e431-627c-4a84-9686-686ccba6bd0c.png)
-
-- d)
-![image](https://user-images.githubusercontent.com/93561706/155223232-8670b556-d6fb-4112-91ac-5dcc7d83e08f.png)
 
 #### 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 ![image](https://user-images.githubusercontent.com/93398718/154606969-67ffd125-1f95-40fa-913d-ded4fea64328.png)  
@@ -438,9 +420,13 @@ Para el literal (d) utilizamos el mismo procedimiento solo que al momento de mul
 
 # VIDEO
 
+https://youtu.be/FjmwfvAbFEU
 
 # CONCLUSIONES
 
+- La impedancia esta definida como la oposicion total al paso de la corriente en un circuito la forma de calcularlo varia segun el circuito que utilicemos por ejemplo si el circuito a analizar en un RC en serie, la impedancia es posible calcularla como la raiz cuadrada de la suma de los cuadrados de la resistencia y la reactancia capacitiva.
+- Los circuitos RC constan de resistencias y capacitores, estos se pueden desplegar tanto en serie como en paralelo, en un circuito RL es casi lo mismo, lo unico que cambia es que en vez de usar capacitores usamos inductores.
+- Debemos identificar el tipo de circuito que estamos trabajando, luego de ello debemos calcular la reactancia (ya sea de los capacitores o inductores totales) para calcular la impedancia, para ello debemos identificar si el equivalente de resistencias y capacitores o inductores estan en serie o paralelo, luego de ello con el uso de la ley de ohm y la ley de kirchoff podemos encontrar los valores que nos faltan.
 
 # BIBLIOGRAFIA
 

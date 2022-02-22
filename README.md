@@ -8,12 +8,9 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
-- mediante la respectiva investigacion hacerca de la impetancia en circuitos RC y RL junto a los conocimientos previos sobre las operaciones con numeros complejos realizar los ejercicios propuestos en la actividad.
 
 ## OBJETIVOS ESPECIFICOS
 
-- desarrolllar los ejercicios propuestos.
-- determinar la importancia de los circuitos RC y RL.
 
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_8/blob/main/deber%208.jpg)
@@ -153,7 +150,10 @@ Tenemos que la grafica Vsal-Frecuencia es igual a:
 
 ![image](https://user-images.githubusercontent.com/93361435/153981540-15cecc94-8bc5-4458-ab14-887bebf0c047.png)
 
-#### 
+#### 37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/93561706/155219555-b7fabaac-b6cc-4fcf-9f20-5edadc37b7c5.png)
+
 
 #### 39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
 ![image](https://user-images.githubusercontent.com/93398718/153984565-3e96d665-460c-4b80-8425-33377da15554.png)
@@ -169,7 +169,9 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 
 ![image](https://user-images.githubusercontent.com/93361435/154077978-6c20745a-2bdf-4b23-9e13-e0052f4422c6.png)
 
-####
+#### 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar
+
+![image](https://user-images.githubusercontent.com/93561706/155219603-b08e3b13-c669-40b7-82ea-1d218b3a5e1d.png)
 
 #### 45. Para el circuito de la figura 15-97, determine lo siguiente:  
 ![image](https://user-images.githubusercontent.com/93398718/155093726-b6b0e4e2-8cce-4fae-b98d-5f118d1e4ffb.png)  
@@ -187,8 +189,9 @@ Con los datos del ejercicio calculamos la capacitancia total y la resistencia to
 
 En donde obtenemos que la resistencia equivalente en serie es 18.4 kilo-ohmios y la capacitancia equivalente es de 195.7 pico faradios
 
-#### 
+#### 49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
 
+![image](https://user-images.githubusercontent.com/93561706/155219643-7ff593c4-8dd2-4a5c-abfd-1a74a9649e81.png)
 
 #### 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
 ![image](https://user-images.githubusercontent.com/93398718/153984837-abe7537b-1b33-4e92-b20c-9f410c7c8625.png)  
@@ -208,7 +211,9 @@ Obtenido este resultado usando la formula de reactancia capacitiva despejamos el
 
 ![image](https://user-images.githubusercontent.com/93361435/154084816-053a51cd-8687-4e0d-a203-f208266cc044.png)
 
-#### 
+#### 55. Encuentre la corriente a través de cada componente en la figura 15-103	
+
+![image](https://user-images.githubusercontent.com/93561706/155219675-0205393e-d3df-4888-bfc1-02541cbbe9d9.png)
 
 
 #### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
@@ -225,7 +230,10 @@ Obteniendo los valores antes obtenidos utilizamos el angulo de la impedancia obt
 
 Siendo el factor de potencia de 0.9146.
 
-#### 
+#### 61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Ω y factor de potencia de 0.85. La carga B tiene impedancia de 72 Ω y factor de potencia de 0.95. (a) ¿Cuánta corriente consume cada carga? (b) ¿Cuál es la potencia reactiva en cada carga?(c) ¿Cuál es la potencia real en cada carga?(d) ¿Cuál es la potencia aparente en cada carga?(e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
+
+
+
 
 #### 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
 ![image](https://user-images.githubusercontent.com/93398718/153985018-2f233c16-3c1a-4bf3-b454-77ce7aa09e0c.png)  
@@ -322,6 +330,10 @@ Su equivalente en serie es una resistencia de 1.83 kiloohmios y un inductor con 
 
 ![image](https://user-images.githubusercontent.com/93561706/155219016-36beffe6-d3e0-431a-9eef-9395debe5927.png)
 
+![image](https://user-images.githubusercontent.com/93561706/155220604-ae8798c7-08d0-4c42-be05-259ffb50e923.png)
+
+#### 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+![image](https://user-images.githubusercontent.com/93398718/154607297-45bf4d6b-c9d1-4acd-bd6d-312be53480e1.png)  
 
 #### 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71
 
@@ -374,6 +386,12 @@ Realizamos el calculo de la impedancia que va ser el mismo para los dos circuito
 Podemos ver el trazo de los fasores en la siguiente figura:
 
 ![image](https://user-images.githubusercontent.com/93361435/154603553-84ba0699-385e-4edf-ab42-814732135f5e.png)
+
+
+#### 45. Para el circuito de la figura 15-97, determine lo siguiente:
+![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
+
+
 
 
 

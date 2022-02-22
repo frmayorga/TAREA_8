@@ -206,10 +206,8 @@ Siendo el factor de potencia de 0.9146.
 
 
 #### 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
-![image](https://user-images.githubusercontent.com/93398718/153985018-2f233c16-3c1a-4bf3-b454-77ce7aa09e0c.png)
-
-
-
+![image](https://user-images.githubusercontent.com/93398718/153985018-2f233c16-3c1a-4bf3-b454-77ce7aa09e0c.png)  
+![image](https://user-images.githubusercontent.com/93398718/155104129-8ba27c48-d13d-47ae-87fc-d11400ec6761.png)  
 
 
 # CAP 16

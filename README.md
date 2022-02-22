@@ -238,6 +238,13 @@ En donde obtenemos que la resistencia equivalente en serie es 18.4 kilo-ohmios y
 
 ![image](https://user-images.githubusercontent.com/93561706/155219643-7ff593c4-8dd2-4a5c-abfd-1a74a9649e81.png)
 
+![image](https://user-images.githubusercontent.com/93561706/155227080-1434cce9-4936-4381-aa4b-84c4a13cd817.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155227086-8be1fadd-cd64-4bfe-9b9e-011deff86556.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155227099-fc3b832f-a887-47fd-a9d9-51b7d7e88f83.png)
+
+
 #### 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
 ![image](https://user-images.githubusercontent.com/93398718/153984837-abe7537b-1b33-4e92-b20c-9f410c7c8625.png)  
 ![image](https://user-images.githubusercontent.com/93398718/155100274-86d40f8e-0162-454a-a412-74d1e8891963.png)  

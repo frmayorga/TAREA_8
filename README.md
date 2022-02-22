@@ -176,6 +176,9 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 
 ![image](https://user-images.githubusercontent.com/93561706/155219603-b08e3b13-c669-40b7-82ea-1d218b3a5e1d.png)
 
+![image](https://user-images.githubusercontent.com/93561706/155222345-3a210ac7-d05e-48d2-b03d-acc78917bf8d.png)
+
+
 #### 45. Para el circuito de la figura 15-97, determine lo siguiente:  
 ![image](https://user-images.githubusercontent.com/93398718/155093726-b6b0e4e2-8cce-4fae-b98d-5f118d1e4ffb.png)  
 ![image](https://user-images.githubusercontent.com/93398718/155097367-025dc3e5-dddd-4a8d-b57b-b99fd82ac1c1.png)  
@@ -217,6 +220,10 @@ Obtenido este resultado usando la formula de reactancia capacitiva despejamos el
 #### 55. Encuentre la corriente a través de cada componente en la figura 15-103	
 
 ![image](https://user-images.githubusercontent.com/93561706/155219675-0205393e-d3df-4888-bfc1-02541cbbe9d9.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155222377-ac7dc7b4-d22f-41bc-8664-d26de092f8a1.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155222392-6d1f8506-c11d-4dde-9cde-e968a7597b5a.png)
 
 
 #### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.

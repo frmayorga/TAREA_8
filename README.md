@@ -152,9 +152,9 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 ![image](https://user-images.githubusercontent.com/93361435/154077978-6c20745a-2bdf-4b23-9e13-e0052f4422c6.png)
 
 
-
-
-
+#### 45. Para el circuito de la figura 15-97, determine lo siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/155093726-b6b0e4e2-8cce-4fae-b98d-5f118d1e4ffb.png)  
+![image](https://user-images.githubusercontent.com/93398718/155097367-025dc3e5-dddd-4a8d-b57b-b99fd82ac1c1.png)  
 
 
 

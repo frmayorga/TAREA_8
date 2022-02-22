@@ -170,8 +170,8 @@ En donde obtenemos que la resistencia equivalente en serie es 18.4 kilo-ohmios y
 
 
 #### 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
-![image](https://user-images.githubusercontent.com/93398718/153984837-abe7537b-1b33-4e92-b20c-9f410c7c8625.png)
-
+![image](https://user-images.githubusercontent.com/93398718/153984837-abe7537b-1b33-4e92-b20c-9f410c7c8625.png)  
+![image](https://user-images.githubusercontent.com/93398718/155100274-86d40f8e-0162-454a-a412-74d1e8891963.png)  
 
 
 **53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.**

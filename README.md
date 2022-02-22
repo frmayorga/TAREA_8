@@ -304,6 +304,17 @@ Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
 
 ![image](https://user-images.githubusercontent.com/93561706/155219131-52ef7279-19f5-42ff-a335-9435fe3c1992.png)
 
+- a)
+![image](https://user-images.githubusercontent.com/93561706/155223185-107e7870-6b54-4a1f-a4f2-5f00a71244d6.png)
+
+- b)
+![image](https://user-images.githubusercontent.com/93561706/155223200-40c90fc5-a5f8-4aec-8c0f-ceeba68eac7e.png)
+
+- c)
+![image](https://user-images.githubusercontent.com/93561706/155223223-93f8e431-627c-4a84-9686-686ccba6bd0c.png)
+
+- d)
+![image](https://user-images.githubusercontent.com/93561706/155223232-8670b556-d6fb-4112-91ac-5dcc7d83e08f.png)
 
 #### 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 ![image](https://user-images.githubusercontent.com/93398718/154606969-67ffd125-1f95-40fa-913d-ded4fea64328.png)  

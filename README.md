@@ -19,6 +19,9 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ![Cap16-1](https://user-images.githubusercontent.com/93361435/154104697-e105c1d1-450c-440f-a2c6-d0a6f47e9f94.jpg)
 
+![resumen 16](https://user-images.githubusercontent.com/93561706/155221478-0a1e7aba-3fc5-4a38-b0b5-301065899289.png)
+
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 

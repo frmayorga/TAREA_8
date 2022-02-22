@@ -264,9 +264,8 @@ Utilizando la formula empleada para circuitos RL en paralelo tenemos:
 
 
 #### 23. Determine las siguientes cantidades en la figura 16-65:
-![image](https://user-images.githubusercontent.com/93398718/154607113-279707e6-9ace-4406-8a94-39a5b4eb2f64.png)  
-
-
+![image](https://user-images.githubusercontent.com/93398718/154607113-279707e6-9ace-4406-8a94-39a5b4eb2f64.png)    
+![image](https://user-images.githubusercontent.com/93398718/155151509-bed64a59-a123-437b-abbf-a6c5fe98b340.png)  
 
 
 **25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.**

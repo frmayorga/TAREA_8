@@ -8,9 +8,12 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
+- mediante la respectiva investigacion hacerca de la impetancia en circuitos RC y RL junto a los conocimientos previos sobre las operaciones con numeros complejos realizar los ejercicios propuestos en la actividad.
 
 ## OBJETIVOS ESPECIFICOS
 
+- desarrolllar los ejercicios propuestos.
+- determinar la importancia de los circuitos RC y RL.
 
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_8/blob/main/deber%208.jpg)
@@ -319,8 +322,6 @@ Su equivalente en serie es una resistencia de 1.83 kiloohmios y un inductor con 
 
 ![image](https://user-images.githubusercontent.com/93561706/155219016-36beffe6-d3e0-431a-9eef-9395debe5927.png)
 
-#### 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
-![image](https://user-images.githubusercontent.com/93398718/154607297-45bf4d6b-c9d1-4acd-bd6d-312be53480e1.png)  
 
 #### 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71
 
@@ -373,12 +374,6 @@ Realizamos el calculo de la impedancia que va ser el mismo para los dos circuito
 Podemos ver el trazo de los fasores en la siguiente figura:
 
 ![image](https://user-images.githubusercontent.com/93361435/154603553-84ba0699-385e-4edf-ab42-814732135f5e.png)
-
-
-#### 45. Para el circuito de la figura 15-97, determine lo siguiente:
-![image](https://user-images.githubusercontent.com/93398718/153984661-306ba838-3706-482d-86d8-e34fca18d08c.png)
-
-
 
 
 

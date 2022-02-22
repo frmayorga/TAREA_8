@@ -287,7 +287,8 @@ Su equivalente en serie es una resistencia de 1.83 kiloohmios y un inductor con 
 
 
 #### v35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
-
+- en este caso para cumplir con las condiciones planteadas en el enunciado y luego de un previo analisis la unica forma de conseguir los resultados pedidos es aplicando un interruptor donde en la primera parte se encuentre una resistende 12 ohms y luego integramos una resistencia de 2.5kohms en la otra seccion del circuito, esto se ilustra para mayor comprension a continuacion  
+![image](https://user-images.githubusercontent.com/93398718/155078918-5a4b9425-4c36-429e-827f-d5671737f7ba.png)  
 
 
 **37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58**

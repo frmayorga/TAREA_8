@@ -36,6 +36,8 @@ Ubicamos los ejes positivos real e imaginario:
 
 ![image](https://user-images.githubusercontent.com/93361435/153790261-6e970d7e-911b-4f48-9fab-0e3f44b06e0b.png)
 
+#### 5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los puntos del problema 3
+
 
 #### 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
@@ -49,6 +51,9 @@ Utilizamos las identidades de coseno y seno para obtener los valores de los valo
 
 ![image](https://user-images.githubusercontent.com/93361435/153792140-abfa1261-acf8-4c77-ad36-1e3bc1489863.png)
 
+#### 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+
+Los literales a, b y c se encuentran en el cuarto cuadrante y  la d está en la primera
 
 #### 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
 ![image](https://user-images.githubusercontent.com/93398718/153983298-73988386-d575-4864-a39b-17ac55bdd0ce.png)    
@@ -80,6 +85,7 @@ Para los ejercicios c y d debemos convertir los numeros a forma polar:
 
 ![image](https://user-images.githubusercontent.com/93361435/153794225-0821e56b-7ed4-43b0-acd4-523e79af7169.png)
 
+#### 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
 
 #### 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
 ![image](https://user-images.githubusercontent.com/93398718/153983928-93e28a06-a34c-4a87-bc3a-db050c3f9a27.png)  
@@ -97,7 +103,9 @@ Calculamos la reactancia capacitiva, despues utilizando la formula de impedancia
 
 ![image](https://user-images.githubusercontent.com/93361435/153794677-f32bc498-fe69-47df-b0e6-d186e038f3f0.png)
 
+#### 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
 
+![image](https://user-images.githubusercontent.com/93561706/155218243-03d239ee-a94f-4151-bb85-6966d4ba63c7.png)
 
 #### 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
 ![image](https://user-images.githubusercontent.com/93398718/153984080-6b761692-859a-41b1-8f2c-7dd8947340b9.png)
@@ -112,6 +120,12 @@ En primer lugar calculamos la reactancia capacitiva, luego con la ley de Ohm enc
 ![image](https://user-images.githubusercontent.com/93361435/153795760-a386c11e-b072-4297-aab9-cbd77f67defc.png)
 
 Como vemos la corriente esta retrasada con 14.47 Grados
+
+#### 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+
+![image](https://user-images.githubusercontent.com/93561706/155218399-15840418-58c0-4b8a-a872-a5b78d99f6b2.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155218353-53db336e-22e6-41c3-adaf-68af7b599e65.png)
 
 
 #### 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
@@ -136,6 +150,7 @@ Tenemos que la grafica Vsal-Frecuencia es igual a:
 
 ![image](https://user-images.githubusercontent.com/93361435/153981540-15cecc94-8bc5-4458-ab14-887bebf0c047.png)
 
+#### 
 
 #### 39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
 ![image](https://user-images.githubusercontent.com/93398718/153984565-3e96d665-460c-4b80-8425-33377da15554.png)
@@ -151,6 +166,7 @@ Primero debemos calcular la reactancia capacitiva y para ello necesitamos la cap
 
 ![image](https://user-images.githubusercontent.com/93361435/154077978-6c20745a-2bdf-4b23-9e13-e0052f4422c6.png)
 
+####
 
 #### 45. Para el circuito de la figura 15-97, determine lo siguiente:  
 ![image](https://user-images.githubusercontent.com/93398718/155093726-b6b0e4e2-8cce-4fae-b98d-5f118d1e4ffb.png)  
@@ -167,6 +183,8 @@ Con los datos del ejercicio calculamos la capacitancia total y la resistencia to
 ![image](https://user-images.githubusercontent.com/93361435/154079509-4b4ddc76-403d-40ed-89a0-d0f775660b10.png)
 
 En donde obtenemos que la resistencia equivalente en serie es 18.4 kilo-ohmios y la capacitancia equivalente es de 195.7 pico faradios
+
+#### 
 
 
 #### 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
@@ -187,7 +205,7 @@ Obtenido este resultado usando la formula de reactancia capacitiva despejamos el
 
 ![image](https://user-images.githubusercontent.com/93361435/154084816-053a51cd-8687-4e0d-a203-f208266cc044.png)
 
-
+#### 
 
 
 #### 57. En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
@@ -204,13 +222,17 @@ Obteniendo los valores antes obtenidos utilizamos el angulo de la impedancia obt
 
 Siendo el factor de potencia de 0.9146.
 
+#### 
 
 #### 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
 ![image](https://user-images.githubusercontent.com/93398718/153985018-2f233c16-3c1a-4bf3-b454-77ce7aa09e0c.png)  
 ![image](https://user-images.githubusercontent.com/93398718/155104129-8ba27c48-d13d-47ae-87fc-d11400ec6761.png)  
 
 
-# CAP 16
+# CAP 16 
+
+#### 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+
 #### 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 ![image](https://user-images.githubusercontent.com/93398718/154606749-76262ca5-1efa-49be-8a3d-5cac48cbb2b1.png)
 
@@ -224,6 +246,10 @@ Siendo el factor de potencia de 0.9146.
 Utilizando las formulas de reactancia inductiva y de impedancia obtenemos: 
 
 ![image](https://user-images.githubusercontent.com/93361435/154185953-7c62c2a8-a89a-487f-a572-7838ee305789.png)
+
+#### 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/93561706/155219263-e6b53dd7-8016-494e-88e5-872a418e5fa2.png)
 
 
 #### 9.Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
@@ -247,6 +273,14 @@ Para el circuito (b) calculamos la reactancia inductiva total obteniendo:
 
 ![image](https://user-images.githubusercontent.com/93361435/154189516-6dbf426e-f66a-4993-9669-1a7c15563ecb.png)
 
+#### 13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye Ꝋ
+
+![image](https://user-images.githubusercontent.com/93561706/155219200-629c06b2-6133-4faf-beb2-566a31e258ee.png)
+
+#### 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93561706/155219131-52ef7279-19f5-42ff-a335-9435fe3c1992.png)
+
 
 #### 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 ![image](https://user-images.githubusercontent.com/93398718/154606969-67ffd125-1f95-40fa-913d-ded4fea64328.png)  
@@ -262,6 +296,9 @@ Utilizando la formula empleada para circuitos RL en paralelo tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/154261638-8ed220e8-e103-47b7-b400-c2a6894cfbf8.png)
 
+#### 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93561706/155219091-c0050de0-ed4f-49c9-b107-4e5329746be8.png)
 
 #### 23. Determine las siguientes cantidades en la figura 16-65:
 ![image](https://user-images.githubusercontent.com/93398718/154607113-279707e6-9ace-4406-8a94-39a5b4eb2f64.png)    
@@ -278,14 +315,22 @@ Obteniendo la resistencia total encontramos la impedancia del circuito, luego po
 
 Su equivalente en serie es una resistencia de 1.83 kiloohmios y un inductor con un reactancia inductiva de 4.2 kiloohmios
 
+#### 27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje
+
+![image](https://user-images.githubusercontent.com/93561706/155219016-36beffe6-d3e0-431a-9eef-9395debe5927.png)
 
 #### 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
 ![image](https://user-images.githubusercontent.com/93398718/154607297-45bf4d6b-c9d1-4acd-bd6d-312be53480e1.png)  
 
+#### 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71
 
-#### v35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+![image](https://user-images.githubusercontent.com/93561706/155218941-65c9cde1-af4c-46a0-8d1a-9f28ba24ce31.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155218969-1a03f7de-dc3c-4678-bc6b-8678d39a1b6f.png)
+
+#### 35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
 - en este caso para cumplir con las condiciones planteadas en el enunciado y luego de un previo analisis la unica forma de conseguir los resultados pedidos es aplicando un interruptor donde en la primera parte se encuentre una resistende 12 ohms y luego integramos una resistencia de 2.5kohms en la otra seccion del circuito, esto se ilustra para mayor comprension a continuacion  
-![image](https://user-images.githubusercontent.com/93398718/155078918-5a4b9425-4c36-429e-827f-d5671737f7ba.png)  
+![image](https://user-images.githubusercontent.com/93398718/155078918-5a4b9425-4c36-429e-827f-d5671737f7ba.png)   
 
 
 **37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58**
@@ -295,6 +340,14 @@ Utilizando la formula de potencia real y potencia reactiva, observamos que neces
 ![image](https://user-images.githubusercontent.com/93361435/154265810-833087b3-5ebf-44d1-ba80-4602f3e99f9d.png)
 
 Obtenemos los valores de potencia real de 1.29 vatios y de potencia reactiva 1.039 VAR
+
+#### 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia
+
+![image](https://user-images.githubusercontent.com/93561706/155218816-eadfbcd8-ad0d-44c2-9edb-4c8b1108fb4b.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155218847-2b131472-e006-4ad6-9357-3aeff946924c.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155218856-883f81fa-5faa-433a-82b9-5191eeaabe6e.png)
 
 
 #### 41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.

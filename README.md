@@ -195,6 +195,10 @@ Tenemos que la grafica Vsal-Frecuencia es igual a:
 
 ![image](https://user-images.githubusercontent.com/93561706/155219555-b7fabaac-b6cc-4fcf-9f20-5edadc37b7c5.png)
 
+![image](https://user-images.githubusercontent.com/93561706/155225299-68dc3d41-b300-4e5a-8fb5-673cd175782d.png)
+
+![image](https://user-images.githubusercontent.com/93561706/155225311-c91f5dda-e62d-4ef9-a4bd-3d5ce3bf827e.png)
+
 
 #### 39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
 ![image](https://user-images.githubusercontent.com/93398718/153984565-3e96d665-460c-4b80-8425-33377da15554.png)
@@ -273,13 +277,15 @@ Siendo el factor de potencia de 0.9146.
 
 #### 61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Ω y factor de potencia de 0.85. La carga B tiene impedancia de 72 Ω y factor de potencia de 0.95. (a) ¿Cuánta corriente consume cada carga? (b) ¿Cuál es la potencia reactiva en cada carga?(c) ¿Cuál es la potencia real en cada carga?(d) ¿Cuál es la potencia aparente en cada carga?(e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
 
-
-
+![image](https://user-images.githubusercontent.com/93561706/155225357-ceb5cbd2-70eb-42e8-b524-045b0d38a270.png)
 
 #### 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
 ![image](https://user-images.githubusercontent.com/93398718/153985018-2f233c16-3c1a-4bf3-b454-77ce7aa09e0c.png)  
 ![image](https://user-images.githubusercontent.com/93398718/155104129-8ba27c48-d13d-47ae-87fc-d11400ec6761.png)  
 
+#### 67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta: (a)R1 abierto (b) R2 abierto (c) C abierto (d) C en cortocircuito
+
+![image](https://user-images.githubusercontent.com/93561706/155225927-c1d98ac2-abbd-45d4-8dc2-db83e3422dce.png)
 
 # CAP 16 
 
